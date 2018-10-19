@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash screen file, saved 10/18/2018 5:47:20 PM using CourseLab 171119 -->
+<splash>
+<settings>
+<showsplash>no</showsplash>
+<fitwindow>yes</fitwindow>
+<fit_small_window>yes</fit_small_window>
+</settings>
+<data>
+<![CDATA[<div style="position: absolute; box-sizing: border-box; left: 0px; top: 0px; width: 1034px; height: 623px;"><div style="background-color:#E5E7E9; width:100%; height:100%; color:#E5E7E9">&nbsp;</div></div><img src="images/titul_bg.png" style="position:absolute;left:682px;top:116px;width:331px;height:451px;"/><div style="position: absolute; box-sizing: border-box; left: 182px; top: 59px; width: 670px; height: 500px;"><p style="text-align: center;"><img border="0" src="images/titul_boxes.svg" /></p></div><div style="position: absolute; box-sizing: border-box; left: 180px; top: 466px; width: 165px; height: 44px;"><p class="titul">ОТ_203.4
+</p></div><div style="position: absolute; box-sizing: border-box; left: 259px; top: 285px; width: 518px; height: 55px;"><p class="titul2">Обеспечение безопасности при выполнении газопламенных работ
+</p></div><div style="position: absolute; left: 692px; top: 399px; width: 160px; height: 160px;"><div style="position: absolute; width: 160px; height: 160px; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;" title="НАЧАТЬ" ><div style="position: absolute; width: 160px; height: 160px;"><img style="position: absolute; left: 0; top: 0; cursor: pointer;" onmouseover="this.src='images/begin.svg';" onmouseout="this.src='images/begin.svg';" onclick="CL.Start(); return false;" src="images/begin.svg" /><img style="display: none;" id="menu_110_img_idle" src="images/begin.svg" /><img style="display: none;" id="menu_110_img_over" src="images/begin.svg" /></div></div></div>]]>
+</data>
+</splash>

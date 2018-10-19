@@ -1,0 +1,62 @@
+p { margin-top: 0px; }
+
+a:link {
+color: #0050a3;
+text-decoration:underline;
+}
+
+a:visited {
+color:#70bbe8;
+text-decoration:underline
+}
+
+a:hover {
+color:#70bbe8;
+text-decoration:underline
+}
+
+p.titul {FONT-FAMILY:  Arial; COLOR: #FFFFFF; FONT-SIZE: 18px; text-align: center; font-weight: normal}
+p.titul2 {FONT-FAMILY: Arial;  COLOR: #FFFFFF; FONT-SIZE: 24px; text-align: center; font-weight: normal}
+
+p.opisanie {FONT-FAMILY: Arial; COLOR: #000000; FONT-SIZE: 18px; text-align: left; font-style: italic; padding-left:20px;  text-indent: -12px; line-height: normal;}
+
+p.doc {FONT-FAMILY: Arial; COLOR: #333366; FONT-SIZE: 20px; text-align: left;  text-decoration:none} 
+
+
+.osnova {FONT-FAMILY: Arial; COLOR: #000000; FONT-SIZE: 18px; text-align:center; font-style: normal; line-height: 120%; letter-spacing: 0px; word-spacing: 0px; text-decoration:none}
+.osnova_left {FONT-FAMILY: Arial; ; FONT-SIZE: 18px; text-align:left; font-style: normal; line-height: 120%; letter-spacing: 0px; word-spacing: 0px; text-decoration:none}
+
+.osnova_marker_gray, .osnova_marker_gray_15, .osnova_marker_gray_10, .osnova_marker_gray_5, .osnova_marker_gray_0, .osnova_marker_red, .osnova_marker_red_20, .osnova_marker_red_15, .osnova_marker_red_10, .osnova_marker_red_5, .osnova_marker_red_0 {FONT-FAMILY: Arial; ; FONT-SIZE: 18px; text-align:left; font-style: normal; line-height: 120%; letter-spacing: 0px; word-spacing: 0px; text-decoration:none;padding-left: 20px;}
+
+.osnova_marker_gray, .osnova_marker_gray_15, .osnova_marker_gray_10, .osnova_marker_gray_5, .osnova_marker_gray_0 {background: url("marker_gray.svg") no-repeat 0px 6px;}
+.osnova_marker_red, .osnova_marker_red_15, .osnova_marker_red_10, .osnova_marker_red_5, .osnova_marker_red_0 {background: url("marker_red.svg") no-repeat 0px 6px;}
+.osnova_marker_gray_20, .osnova_marker_red_20 { margin-bottom: 20px; }
+.osnova_marker_gray_15, .osnova_marker_red_15 { margin-bottom: 15px; }
+.osnova_marker_gray_10, .osnova_marker_red_10 { margin-bottom: 10px; }
+.osnova_marker_gray_5, .osnova_marker_red_5 { margin-bottom: 5px; }
+.osnova_marker_gray_0, .osnova_marker_red_0 { margin-bottom: 0px; }
+
+.osnova_marker_list {FONT-FAMILY: Arial; ; FONT-SIZE: 18px; margin-bottom:5px; text-align:left; font-style: normal; line-height: 120%; letter-spacing: 0px; word-spacing: 0px; text-decoration:none; padding-left: 15px; background: url("marker.svg") no-repeat 0px 7px;}
+
+li {list-style-type:disc; list-style-position:outside}
+
+sup,sub {vertical-align:baseline; position:relative; font-size:16px;}
+
+sub {top:4px;}
+
+sup {bottom:6px;}
+
+td.blue {BACKGROUND-COLOR: #1a87ca;COLOR: #ffffff}
+td.dark {BACKGROUND-COLOR: #d9d7d8}
+td.light {BACKGROUND-COLOR: #edeff3}
+
+table td{VERTICAL-ALIGN: middle}
+
+span.blue {font-weight: normal;color:#1378bc}
+span.red {font-weight: normal;color:#e62c53}
+span.big {font-weight: normal;color:#e62c53;text-transform: uppercase}
+
+.pointer {cursor: pointer}
+
+#finish-course {cursor:pointer}
+
